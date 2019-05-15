@@ -40,63 +40,17 @@
 <body>
 
 <form:form method="POST" commandName="user">
-<<<<<<< HEAD
+
 	<h2 style="text-align:center">Product Card</h2>
 
 <div class="card">
-  <img src="/w3images/jeans3.jpg" alt="Denim Jeans" style="width:100%">
+  <img src="/Images/iphone.png" alt="IPhone" style="width:100%">
   <h1>Tailored Jeans</h1>
   <p class="price">$19.99</p>
   <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
   <p><button>Add to Cart</button></p>
 </div>
-=======
-	<table>
-		<tr>
-			<td>User Name :</td>
-			<td><form:input path="name" /></td>
-		</tr>
-		<tr>
-			<td>Password :</td>
-			<td><form:password path="password" /></td>
-		</tr>
-		<tr>
-			<td>Gender :</td>
-			<td><form:radiobutton path="gender" value="M" label="M" /> 
-				<form:radiobutton path="gender" value="F" label="F" /></td>
-		</tr>
-		<tr>
-			<td>Country :</td>
-			<td><form:select path="country">
-				<form:option value="0" label="Select" />
-				<form:option value="1" label="India" />
-				<form:option value="2" label="USA" />
-				<form:option value="3" label="UK" />
-				<form:option value="4" label="Germany" />
-				<form:option value="5" label="Dubai" />		
-			</form:select></td>
-		</tr>
-		<tr>
-			<td>About you :</td>
-			<td><form:textarea path="aboutYou" /></td>
-		</tr>
-		<tr>
-			<td>Community :</td>
-			<td><form:checkbox path="community" value="Spring"
-				label="Spring" /> <form:checkbox path="community" value="Hibernate"
-				label="Hibernate" /> <form:checkbox path="community" value="Struts"
-				label="Struts" /></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td><form:checkbox path="mailingList"
-				label="Would you like to join our mailinglist?" /></td>
-		</tr>
-		<tr>
-			<td colspan="2"><input type="submit"></td>
-		</tr>
-	</table>
->>>>>>> 3080675fed106aef3c2a1a15d9cbf916d4ae4d1b
+
 </form:form>
 
 </body>
