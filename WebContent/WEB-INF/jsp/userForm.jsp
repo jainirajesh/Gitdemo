@@ -52,7 +52,7 @@
 </div>
 
 <div class="card">
-  <img src="/iphone.png" alt="IPhone" style="width:100%">
+  <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xr/iphone-xr-white-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1551226036668" alt="IPhone" style="width:100%">
   <h1>Tailored Jeans</h1>
   <p class="price">$19.99</p>
   <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
