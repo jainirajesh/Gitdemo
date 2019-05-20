@@ -46,24 +46,24 @@
 <tr>
 <td>
 <div class="card">
-  <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xr/iphone-xr-white-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1551226036668" alt="iPhone XR" style="width:100%">
+  <img height="400px" src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xr/iphone-xr-white-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1551226036668" alt="iPhone XR" style="width:100%">
   <h1>iPhone XR</h1>
   <p class="price">$749.00</p>
-  <p>iPhone XR features the most advanced LCD in a smartphone—a 6.1-inch Liquid Retina display with industry-leading color accuracy and an innovative backlight design that allows the screen to stretch into the corners. Six stunning new finishes. Advanced Face ID lets you securely unlock your iPhone, log in to apps, and pay with just a glance. The A12 Bionic chip with next-generation Neural Engine uses real-time machine learning to transform the way you experience photos, gaming, augmented reality, and more. A breakthrough 12MP camera system with Portrait mode, Portrait Lighting, enhanced bokeh, and all-new Depth Control. Water resistance. And iOS 12—the most advanced mobile operating system in the world—with powerful new tools that make iPhone more personal than ever.</p>
+  <p>iPhone XR features the most advanced LCD in a smartphone—a 6.1-inch Liquid Retina display with industry-leading color accuracy and an innovative backlight design that allows the screen to stretch into the corners. Six stunning new finishes. Advanced Face ID lets you securely unlock your iPhone, log in to apps, and pay with just a glance. The A12 Bionic chip with next-generation Neural Engine uses real-time machine learning to transform the way you experience photos. </p>
   <p><button>Add to Cart</button></p>
 </div>
 </td>
 <td width="10px"></td>
-<td>
+<td valign="top">
 <div class="card">
-  <img src="https://image-us.samsung.com/SamsungUS/home/mobile/galaxy-s10/sm-g977uzaavzw/gallery/gen_sm-g977n_s10_5G_Front_Black_CMYK.jpg?$product-details-jpg$" alt="Samsung Galaxy S10" style="width:100%">
+  <img height="400px" src="https://image-us.samsung.com/SamsungUS/home/mobile/galaxy-s10/sm-g977uzaavzw/gallery/gen_sm-g977n_s10_5G_Front_Black_CMYK.jpg?$product-details-jpg$" alt="Samsung Galaxy S10" style="width:100%">
   <h1>Samsung Galaxy S10</h1>
   <p class="price">$899.00</p>
   <p>Requires optimal 5G connection; see carrier for network availability.
 *Faster speeds refers to greater bandwidth. Bandwidth measures the amount of data that can be transferred (downloaded or streamed) within a certain amount of time.
 Reimagine the smartphone with the enhanced intelligence, powerful camera, and stunning display of the Galaxy S series. Discover how you can do more of what you love with Galaxy S10.
 </p>
-  <p><button>Add to Cart</button></p>
+  <p><button valign="bottom">Add to Cart</button></p>
 </div>
 </td>
 </tr>
