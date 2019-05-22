@@ -66,16 +66,7 @@ Reimagine the smartphone with the enhanced intelligence, powerful camera, and st
   <p><button valign="bottom">Add to Cart</button></p>
 </div>
 </td>
-<td width="10px"></td>
-<td>
-<div class="card">
-  <img height="400px" src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xr/iphone-xr-white-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1551226036668" alt="iPhone XR" style="width:100%">
-  <h1>iPhone XR</h1>
-  <p class="price">$749.00</p>
-  <p>iPhone XR features the most advanced LCD in a smartphone—a 6.1-inch Liquid Retina display with industry-leading color accuracy and an innovative backlight design that allows the screen to stretch into the corners. Six stunning new finishes. Advanced Face ID lets you securely unlock your iPhone, log in to apps, and pay with just a glance. The A12 Bionic chip with next-generation Neural Engine uses real-time machine learning to transform the way you experience.</p>
-  <p><button>Add to Cart</button></p>
-</div>
-</td>
+
 </tr>
 </table>
 </form:form>
