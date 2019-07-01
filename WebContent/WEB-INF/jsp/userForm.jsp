@@ -68,7 +68,16 @@ Reimagine the smartphone with the enhanced intelligence, powerful camera, and st
 </td>
 <td width="10px"></td>
 <td>
-
+<div class="card">
+  <img height="400px" src="https://image-us.samsung.com/SamsungUS/home/mobile/galaxy-s10/sm-g977uzaavzw/gallery/gen_sm-g977n_s10_5G_Front_Black_CMYK.jpg?$product-details-jpg$" alt="Samsung Galaxy S10" style="width:100%">
+  <h1>Samsung Galaxy S10</h1>
+  <p class="price">$899.00</p>
+  <p>Requires optimal 5G connection; see carrier for network availability.
+*Faster speeds refers to greater bandwidth. Bandwidth measures the amount of data that can be transferred (downloaded or streamed) within a certain amount of time.
+Reimagine the smartphone with the enhanced intelligence, powerful camera, and stunning display of the Galaxy S series. Discover how you can do more of what you love with Galaxy S10.
+</p>
+  <p><button valign="bottom">Add to Cart</button></p>
+</div>
 </td>
 </tr>
 </table>
